@@ -1,0 +1,2 @@
+# rp
+za računalniški praktkum
