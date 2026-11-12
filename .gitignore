@@ -1,7 +1,27 @@
+# VSCode uporabniške nastavitve
+.vscode/
+
+# LaTeX
 *.aux
+*.bbl
+*.blg
 *.fdb_latexmk
+*.toc
 *.fls
+*.idx
+*.ilg
+*.ind
 *.log
-*.synctex.gz
+*.nav
+*.out
 *.pdf
-*.zip
+!slika.pdf
+*.pyc
+*.snm
+*.synctex.gz
+
+# Windows
+thumbs.db
+
+# Python
+__pycache__
